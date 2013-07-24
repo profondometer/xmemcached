@@ -168,5 +168,18 @@ Access MBean through
 
 More information see [wiki pages](http://code.google.com/p/xmemcached/w/list) please.
 
+## Contributors
+
+Thanks to:
+
+* [cnscud](https://code.google.com/u/cnscud/)
+* [wolfg1969](https://code.google.com/u/wolfg1969/)
+* [vadimp](https://github.com/vadimp)
+* [ilkinulas](https://github.com/ilkinulas)
+* [aravind](https://github.com/aravind)
+* [bmahe](https://github.com/bmahe)
+* [jovanchohan](https://github.com/jovanchohan)
+* [profondometer](https://github.com/profondometer)
+
 ##License
 Apache License Version 2.0
